@@ -1,4 +1,25 @@
 {
   "version": 1,
-  "episodes": []
+  "episodes": [
+    {
+      "id": "yorivex-test-flower-1",
+      "animeId": 1,
+      "title": "Flower \u2014 Sample 1",
+      "episode": 1,
+      "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "provider": "MDN Web Docs",
+      "license": "CC0 sample video",
+      "testOnly": true
+    },
+    {
+      "id": "yorivex-test-flower-2",
+      "animeId": 1,
+      "title": "Flower \u2014 Sample 2",
+      "episode": 2,
+      "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "provider": "MDN Web Docs",
+      "license": "CC0 sample video",
+      "testOnly": true
+    }
+  ]
 }
